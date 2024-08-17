@@ -12,8 +12,21 @@
 
 
 ## Languages and Tools
-[Java](https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Stack-6DB33F?&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?&logo=spring&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?&logo=hibernate&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?&logo=intellij-idea&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&logo=kubernetes&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?&logo=spring-boot&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NETcore-5C2D91?&logo=.net&logoColor=white)
