@@ -3,7 +3,7 @@
 
 👋 Hey there! 🚀 I'm currently immersed in ITI Intensive Training and diving into the exciting world of .NET technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
 
-💡 If you're curious about .NET  or want to chat, I'm your go-to person! Feel free to reach out to me through my Mail atefrehan111@gmail.com
+💡 If you're curious about Java or other backend technologies like .NET  or want to chat, I'm your go-to person! Feel free to reach out to me through my Mail atefrehan111@gmail.com
 
 . Let's connect and bring some ideas to life!🌟
 
@@ -12,7 +12,9 @@
 
 
 ## Languages and Tools
-
+[Java](https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Stack-6DB33F?&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?&logo=spring-boot&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NETcore-5C2D91?&logo=.net&logoColor=white)
 ![SqlServer](https://img.shields.io/badge/SqlServer-563D7C?&&logoColor=white)
