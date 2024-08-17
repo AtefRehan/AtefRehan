@@ -1,12 +1,10 @@
-# Hello👋, I am Atef  <img align="right" width="250" src="assets/Valorant stickers/Always Watching.png">
-####
+Hello👋, I am Atef <img align="right" width="250" src="assets/Valorant stickers/Always Watching.png">
 
-👋 Hey there! 🚀 I'm currently immersed in ITI Intensive Training and diving into the exciting world of .NET technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
+👋 Hey there! 🚀 I'm a Computer Engineering Bachelor's degree holder and ITI diploma holder specialized in backend technologies. I'm currently passionate about backend technologies, especially the Java Spring Boot stack.
 
-💡 If you're curious about Java or other backend technologies like .NET  or want to chat, I'm your go-to person! Feel free to reach out to me through my Mail atefrehan111@gmail.com
+💡 If you're curious about Java or other backend technologies, or if you just want to chat, I'm your go-to person! Feel free to reach out to me through my email at atefrehan111@gmail.com.
 
-. Let's connect and bring some ideas to life!🌟
-
+Let's connect and bring some ideas to life! 🌟
 
 
 
